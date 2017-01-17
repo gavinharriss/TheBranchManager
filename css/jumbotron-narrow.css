@@ -26,6 +26,8 @@
 	margin-top: 50px;
 }
 
+html{height:100%;width:100%}
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
@@ -38,6 +40,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; 
+	color: #F5F5DC;
 }
 
 a, a:hover, a:active {
