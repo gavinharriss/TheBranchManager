@@ -17,11 +17,19 @@
     margin-right: auto;
 }
 
+.phone-no {
+	font-size: 24px;
+}
+
+.lead {
+	margin-top: 50px;
+}
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
   padding-bottom: 20px;
-  background: url(../images/background.jpg) no-repeat center center fixed; 
+  background: url(../images/logo-background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
