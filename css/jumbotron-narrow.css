@@ -32,6 +32,7 @@ body {
   padding-bottom: 20px;
  background-image: url(../images/logo-background-mobile.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center top; 
 	
     /*webkit-background-size: cover;
@@ -42,11 +43,11 @@ body {
 	background-size: 100% auto;
 }
 
-@media (min-width: 768px) { 
+/*@media (min-width: 768px) { 
 	body {
-		background-image: url(../images/logo-background.jpg);
+		background-image: url(../images/logo-background-.jpg);
 	}
-}
+}*/
 
 a, a:hover, a:active {
   color: #F5F5DC;
