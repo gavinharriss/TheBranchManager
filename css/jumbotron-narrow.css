@@ -30,10 +30,10 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
-  background: url(../images/logo-background-mobile.jpg) no-repeat center top fixed; 
-  background-repeat: no-repeat; 
-    background-position: center top;
-    background-attachment: fixed;       
+ background-image: url(../images/logo-background-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: center top; 
+	
     /*webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -44,8 +44,7 @@ body {
 
 @media (min-width: 768px) { 
 	body {
-		background: url(../images/logo-background.jpg) no-repeat center center fixed; 
-		background-position: center;
+		background-image: url(../images/logo-background.jpg);
 	}
 }
 
