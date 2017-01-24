@@ -43,11 +43,11 @@ body {
 	background-size: 100% auto;
 }
 
-/*@media (min-width: 768px) { 
+@media (min-width: 992px) { 
 	body {
 		background-image: url(../images/logo-background-.jpg);
 	}
-}*/
+}
 
 a, a:hover, a:active {
   color: #F5F5DC;
